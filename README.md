@@ -17,6 +17,6 @@ Prediction
 
 Prediction Print
 
-<img src="/assets/res.jpg?raw=true" alt="drawing" width="400" height="300"/>
+<img src="/assets/res.JPG?raw=true" alt="drawing" width="300" height="100"/>
 
 [Link to Result images](https://drive.google.com/drive/folders/1RJzk1vweJnjmk7jmZ_ovHw6IQKaY296k?usp=sharing)
