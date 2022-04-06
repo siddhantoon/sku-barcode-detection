@@ -7,6 +7,8 @@ Steps to Run:
 2. Run main.py --images path/to/image/folder --weight path/to/weight.onnx
 3. To save results use argument --save True
 
+Requirements: OpenCV-Contrib version 4.5.4
+
 Original Image
 
 <img src="/assets/IMG_20220303_173611.jpg?raw=true" alt="drawing" width="400" height="300"/>
