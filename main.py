@@ -1,3 +1,4 @@
+from tkinter.tix import Tree
 import cv2
 import argparse
 import matplotlib.pyplot as plt
@@ -118,6 +119,6 @@ if __name__=='__main__':
     if not len(images):
         print('No jpg images folder specified')
     for image in images:
-        orig, result =  run(image, yolo_sku_model, bardet)
+        orig, result =  run(image, yolo_sku_model, bardet, True)
         plt.imshow(result)
         plt.show()
